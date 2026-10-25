@@ -1,0 +1,9 @@
+{
+  "name": "arch-hiero-ng",
+  "private": true,
+  "type": "module",
+  "description": "Drives ArchHiero's WebMCP tools in a browser to build and export diagrams.",
+  "dependencies": {
+    "playwright": "1.56.1"
+  }
+}
