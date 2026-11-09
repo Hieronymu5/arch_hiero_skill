@@ -2,6 +2,7 @@
 name: commit
 description: Create a git commit whose message follows the Conventional Commits 1.0.0 standard. Use when the user asks to commit changes, write a commit message, or invokes /commit.
 argument-hint: "[optional hint about type, scope, or which changes to include]"
+model: haiku
 ---
 
 # Commit with Conventional Commits
